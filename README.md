@@ -6,3 +6,4 @@
 - [x] [Exercise_06:Chapter2_problem2.19](https://github.com/zhangsheng999/problem2.19) (很抱歉，上次作业其实是写完了，我只是忘记放在这个交作业的repository了，这次交作业的时候才发现。请助教多多包涵)
 - [x] [Exercise_06:Chapter3_problem3.12](https://github.com/zhangsheng999/problem3.12) (课后习题任选一道题目）
 - [x] [Exercise_07:Chapter3_problem3.26](https://github.com/zhangsheng999/problem3.26)  (课后习题任选一道题目)
+- [x] [Exercise_08:Chapter3_problem3.31](https://github.com/zhangsheng999/problem-3.31)  (课后习题任选一道题目)
