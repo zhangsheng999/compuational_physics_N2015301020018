@@ -9,3 +9,4 @@
 - [x] [Exercise_08:Chapter3_problem3.31](https://github.com/zhangsheng999/problem-3.31)  (课后习题任选一道题目)
 - [x] [midterm_exercise](https://github.com/zhangsheng999/pygame)
 - [x] [Exercise_09:Chapter4_problem4.16](https://github.com/zhangsheng999/problem4.16)   (课后习题任选一道题目)
+- [x] [Exercise_10:Chapter5_problem5.3](https://github.com/zhangsheng999/problem5.3)     (课后习题任选一道题目) 
